@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:system="clr-namespace:Povtorenie333.System"
+             xmlns:viewmodel="clr-namespace:Povtorenie333"
+             x:DataType="system:DetObjPg"
+             x:Class="Povtorenie333.DetailObjectPage">
+
+    <VerticalStackLayout Padding="20" Spacing="20">
+        
+        <Label>
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Тип: " FontSize="18"/>
+                    <Span Text="{Binding TypeRation}" 
+                          FontSize="35" 
+                          TextColor="DarkCyan"/> 
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+        <Label>
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Адрес: " FontSize="18"/>
+                    <Span Text="{Binding Name}" 
+                          FontSize="18"
+                          TextColor="DarkCyan"/> 
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+
+        <Label>
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Плотность размещения в помещении: " FontSize="18"/>
+                    <Span Text="{Binding Plotnoste}" 
+                          FontSize="18"
+                          TextColor="DarkCyan"/>
+                    <Span Text=" м²" FontSize="18"/>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label> 
+        
+
+    </VerticalStackLayout>
+
+</ContentPage>

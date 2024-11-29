@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Povtorenie333.OfficeBuildCreatePage">
+    
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="20">
+            <Label Text="{Binding Text}"/>
+            <HorizontalStackLayout HorizontalOptions="Center" Spacing="20">
+                
+                <Entry 
+                    Text="{Binding Squar}"
+                    Placeholder="Введите общую пллощадь здания"
+                    HorizontalOptions="Fill"/>
+                
+                <Button
+                    Text="Создать жилой дом"
+                    Command="{Binding AddRationsCommand}"
+                    HeightRequest="50"
+                    WidthRequest="120"/> 
+                
+            </HorizontalStackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

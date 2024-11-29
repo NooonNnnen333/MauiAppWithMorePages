@@ -1,0 +1,66 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Povtorenie333
+build_property.ProjectDir = /Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Povtorenie333.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Povtorenie333.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/AppXAMLs/DetailObjectPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Povtorenie333.AppXAMLs.DetailObjectPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AppXAMLs/DetailObjectPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AppXAMLs/DetailObjectPage.xaml
+
+[/Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/AppXAMLs/HouseCreatePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Povtorenie333.AppXAMLs.HouseCreatePage.xaml
+build_metadata.AdditionalFiles.TargetPath = AppXAMLs/HouseCreatePage.xaml
+build_metadata.AdditionalFiles.RelativePath = AppXAMLs/HouseCreatePage.xaml
+
+[/Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/AppXAMLs/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Povtorenie333.AppXAMLs.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AppXAMLs/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AppXAMLs/MainPage.xaml
+
+[/Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/AppXAMLs/OfficeBuildCreatePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Povtorenie333.AppXAMLs.OfficeBuildCreatePage.xaml
+build_metadata.AdditionalFiles.TargetPath = AppXAMLs/OfficeBuildCreatePage.xaml
+build_metadata.AdditionalFiles.RelativePath = AppXAMLs/OfficeBuildCreatePage.xaml
+
+[/Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Povtorenie333.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/egorvasilev/RiderProjects/MauiApp1/Povtorenie333/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Povtorenie333.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
